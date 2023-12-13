@@ -1,0 +1,5 @@
+"Living Room", ["42\" TV Playing Golf", "Black Leather Sofa", "Circular Metal Coffee Table", "Wooden Bookshelf with 3 Shelves"]
+"Killing Room", ["69 Inch Cut Bench", "kill Couch", "Animal Carpet", "Metal Bookshelf with 35 Shelves"]
+"Bedroom", ["Queen Size Bed", "Nightstand", "Lamp with 3 Bulbs", "Dresser with 5 Drawers"]
+"Bathroom", ["Toilet", "Sink", "Shower", "Mirror"]
+"Kitchen", ["Refrigerator", "Stove", "Microwave", "Dishwasher"]
