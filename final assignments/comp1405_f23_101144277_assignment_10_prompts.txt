@@ -1,3 +1,0 @@
-Prompts: 
-I gave chatgpt the map of my game and asked:
-So i am making a text based game called land of the dawgs. This is the map of my rooms and it has items in it. can you give me descriptions of the rooms and items in the room
